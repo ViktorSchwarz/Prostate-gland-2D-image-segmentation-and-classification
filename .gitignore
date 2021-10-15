@@ -1,0 +1,15 @@
+/.ipynb_checkpoints
+/.vscode
+/bibliography
+/Documents_reports
+/figures
+/images_data
+/Ready for submission
+/segment_overlay
+/trained_models
+/trained_models_backup
+data.py
+dataset70-200.h5
+frame_0175_004_overlay.png
+mphy0041_coursework2_2021.pdf
+Results_table.xlsx
