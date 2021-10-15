@@ -1,0 +1,3 @@
+# Classification-segmentation of a prostate gland in 2D ultrasound images
+
+This repository contains all the code written and submitted as part of a coursework project for a course at UCL: MPHY0041 - Machine learning in medical imaging. The goal of the project was to train a segmentation Unet with residual blocks that localises a prostate gland in 2D ultrasound images. In the second step, a prostate gland classifier/detector was trained and used as prescreening before the segmentor. 
